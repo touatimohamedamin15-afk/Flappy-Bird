@@ -1,0 +1,9 @@
+{
+  "entrypoint": "index.js",
+  "compatibilityDate": "2026-09-29",
+  "modules": [
+    { "name": "index.js", "type": "esm", "path": "./dist/flappy_bird/index.js" }
+  ],
+  "assetsDirectory": "./dist/client",
+  "spa": true
+}
